@@ -1,0 +1,577 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iw Profile\n"
+"POT-Creation-Date: 2016-05-27 16:32+0430\n"
+"PO-Revision-Date: 2016-05-27 16:36+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: iw-profile.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/server_info.php:7
+msgid "Not set"
+msgstr "تنظیم نشده"
+
+#: admin/server_info.php:9 admin/server_info.php:11
+msgid "On"
+msgstr ""
+
+#: admin/server_info.php:10 admin/server_info.php:12
+msgid "Off"
+msgstr "خاموش"
+
+#: admin/server_info.php:14 admin/server_info.php:16 admin/server_info.php:18
+#: admin/server_info.php:20 admin/server_info.php:22
+msgid "N/A"
+msgstr ""
+
+#: admin/server_info.php:21
+msgid " MByte"
+msgstr ""
+
+#: admin/server_info.php:23 admin/server_info.php:25 admin/server_info.php:27
+msgid "Yes"
+msgstr ""
+
+#: admin/server_info.php:24 admin/server_info.php:26 admin/server_info.php:28
+msgid "No"
+msgstr ""
+
+#: admin/server_info.php:31
+msgid "Operating System"
+msgstr ""
+
+#: admin/server_info.php:32
+msgid "Server"
+msgstr ""
+
+#: admin/server_info.php:33
+msgid "Memory usage"
+msgstr ""
+
+#: admin/server_info.php:34
+msgid "MYSQL Version"
+msgstr ""
+
+#: admin/server_info.php:35
+msgid "SQL Mode"
+msgstr ""
+
+#: admin/server_info.php:36
+msgid "PHP Version"
+msgstr ""
+
+#: admin/server_info.php:37
+msgid "PHP Safe Mode"
+msgstr ""
+
+#: admin/server_info.php:38
+msgid "PHP Allow URL fopen"
+msgstr ""
+
+#: admin/server_info.php:39
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: admin/server_info.php:40
+msgid "PHP Max Upload Size"
+msgstr ""
+
+#: admin/server_info.php:41
+msgid "PHP Max Post Size"
+msgstr ""
+
+#: admin/server_info.php:42
+msgid "PHP Max Script Execute Time"
+msgstr ""
+
+#: admin/server_info.php:43
+msgid "PHP Exif support"
+msgstr ""
+
+#: admin/server_info.php:44
+msgid "PHP IPTC support"
+msgstr ""
+
+#: admin/server_info.php:45
+msgid "PHP XML support"
+msgstr ""
+
+#: admin/settings.php:2
+msgid "Profile page setting"
+msgstr "تنظیمات برگه پروفایل"
+
+#: admin/settings.php:4
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: admin/settings.php:41
+msgid "Show Lost your password:"
+msgstr "نمایش رمز عبور خود را فراموش کردید؟"
+
+#: admin/settings.php:49
+msgid "Show Info Tab:"
+msgstr "نمایش نوار اطلاعات:"
+
+#: admin/settings.php:58
+msgid "Show Woocommerce Tab like orders and track theme:"
+msgstr "نمایش زبانه ووکامرس مانند سفارشات و پیگیری آن ها:"
+
+#: admin/settings.php:65
+msgid "Show Settings Tab:"
+msgstr "نمایش زبانه تنظیمات:"
+
+#: admin/settings.php:71
+msgid "Show Captcha In Login:"
+msgstr "نمایش کد امنیتی در صفحه ورود:"
+
+#: admin/settings.php:77
+msgid "Show Show Captcha In Registration:"
+msgstr "نمایش کد امنیتی در صفحه ثبت نام:"
+
+#: admin/settings.php:83 admin/settings.php:90
+msgid "Add Extra Link:"
+msgstr "اضافه کردن لینک اضافی:"
+
+#: admin/settings.php:97
+msgid "Text for Link:"
+msgstr "متن:"
+
+#: admin/settings.php:105
+msgid "Link address for button:"
+msgstr "آدرس لینک برای دکمه:"
+
+#: admin/settings.php:116
+msgid "Customize Email From Name:"
+msgstr "سفارشی کردن ایمیل از نام:"
+
+#: admin/settings.php:123
+msgid "Email From Name:"
+msgstr "سفارشی کردن ایمیل از نام:"
+
+#: admin/settings.php:135
+msgid "Customize From Email Address:"
+msgstr "سفارشی از آدرس ایمیل:"
+
+#: admin/settings.php:141
+msgid "Email Address From:"
+msgstr "آدرس ایمیل از:"
+
+#: include/form.php:10
+msgid "The Email you entered is not valid.  please try again."
+msgstr "ایمیل وارد شده معتبر نیست. لطفا ایمیل دیگری وارد کنید"
+
+#: include/form.php:12
+msgid "This email is already used by another user.  try a different one."
+msgstr ""
+"آدرس ایمیل وارد شده از قبل موجود است. لطفا ایمیل دیگری را وارد نمایید."
+
+#: iw-profile.php:142
+msgid "IW Profile Widget"
+msgstr "ابزارک پروفایل IW"
+
+#: iw-profile.php:145
+msgid "this is widget for IW Profile"
+msgstr "این ابزارک پروفایل IW است"
+
+#: iw-profile.php:169
+msgid "iw profile"
+msgstr "پروفایل iw"
+
+#: iw-profile.php:174
+msgid "Title:"
+msgstr "عنوان:"
+
+#: iw-profile.php:312 iw-profile.php:368
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "<strong>خطا</strong>: لطفا نام کاربری خود را وارد کنید."
+
+#: iw-profile.php:315
+msgid "<strong>ERROR</strong>: Please enter your password."
+msgstr "<strong>خطا</strong>: لطفا رمز عبور خود را وارد کنید."
+
+#: iw-profile.php:370
+msgid ""
+"<strong>ERROR</strong>: This username is invalid.  Please enter a valid "
+"username."
+msgstr ""
+"<strong>خطا</strong>: این نام کاربری نامعتبر است.  لطفاً یک نام کاربری معتبر "
+"وارد کنید."
+
+#: iw-profile.php:372
+msgid ""
+"<strong>ERROR</strong>: This username is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>خطا</strong>:  این نام کاربری قبلا ثبت شده است ، لطفا نام کاربری "
+"دیگری وارد کنید."
+
+#: iw-profile.php:376
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>خطا </strong>: لطفا آدرس ایمیل خود را تایپ کنید."
+
+#: iw-profile.php:378
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "آدرس ایمیل شما صحیح نیست."
+
+#: iw-profile.php:380
+msgid ""
+"<strong>ERROR</strong>: This email is already registered, please choose "
+"another one."
+msgstr ""
+"<strong>خطا</strong>:این ایمیل قبلا ثبت شده است، لطفا یکی دیگر را انتخاب "
+"کنید."
+
+#: iw-profile.php:384
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>خطا</strong>: لطفا رمز عبور خود را وارد کنید."
+
+#: iw-profile.php:386
+msgid "<strong>ERROR</strong>: Passwords do not match."
+msgstr "<strong>خطا</strong>: كلمه های عبور مطابقت ندارند."
+
+#: iw-profile.php:396
+msgid ""
+"<strong>ERROR</strong>: Couldn&#8217;t register you... please contact with "
+"the site admin !"
+msgstr ""
+"<strong>خطا</strong>: مشکل در ثبت نام... لطفا با مدیر سایت تماس بگیرید!"
+
+#: iw-profile.php:431
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr "<strong>خطا</strong>: نام کاربری یا ایمیل خود را وارد کنید."
+
+#: iw-profile.php:435
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong>خطا</strong>:هیچ کاربری با این آدرس ایمیل وجود دارد."
+
+#: iw-profile.php:443
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr "<strong>خطا</strong>: نام کاربری و یا پست الکترونیکی نامعتبر است."
+
+#: iw-profile.php:464
+msgid "Password reset is not allowed for this user"
+msgstr "تنظیم مجدد رمز عبور برای این کاربر امکان ندارد."
+
+#: iw-profile.php:487
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+"فردی درخواست بازیابی رمز عبور برای نام کاربری شما را داده است، اگر این شخص "
+"شما نمی باشید نگران نباشید همه چیز تحت کنترل می باشد."
+
+#: iw-profile.php:489
+#, php-format
+msgid "Username: %s"
+msgstr "نام کاربری: %s"
+
+#: iw-profile.php:490
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr "جهت بازیابی رمزعبور، این آدرس را دنبال کنید:"
+
+#: iw-profile.php:496
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] بازیابی کلمه عبور"
+
+#: iw-profile.php:504
+msgid "Check your e-mail for the confirmation link."
+msgstr "ایمیل خود را برای مشاهده لینک تایید چک نمایید."
+
+#: iw-profile.php:524 template/logged-in/settings.php:39
+msgid "Mobile Number"
+msgstr "شماره تماس"
+
+#: iw-profile.php:534 template/logged-in/settings.php:45
+msgid "Date of Birth"
+msgstr "تاریخ تولد"
+
+#: iw-profile.php:544
+msgid "Month of Birth"
+msgstr "ماه تولد"
+
+#: iw-profile.php:554
+msgid "year of Birth"
+msgstr "سال تولد"
+
+#: iw-profile.php:565
+msgid "Custom Avatar URL"
+msgstr "URL سفارشی آواتار"
+
+#: iwl_admin.php:12
+msgid "How to Use | IW profile"
+msgstr "چگونه استفاده کنم؟"
+
+#: iwl_admin.php:12
+msgid "How to Use"
+msgstr "نحوه استفاده"
+
+#: iwl_admin.php:46 iwl_admin.php:55 iwl_admin.php:63
+msgid "You do not have sufficient permissions to access this page."
+msgstr "شما مجوز کافی برای دسترسی به این صفحه را ندارید."
+
+#: template/logged-in/info.php:5
+msgid "Your ID:"
+msgstr "شناسه شما:"
+
+#: template/logged-in/info.php:9
+msgid "First joined here:"
+msgstr "تاریخ عضویت:"
+
+#: template/logged-in/info.php:13
+msgid "Total posts of yours:"
+msgstr "مجموع پست ها از شما:"
+
+#: template/logged-in/info.php:17
+msgid "Total comments of yours:"
+msgstr "تعداد نظرات شما:"
+
+#: template/logged-in/info.php:27
+msgid "Your level:"
+msgstr "سطح شما:"
+
+#: template/logged-in/info.php:31
+msgid "Your posts feed:"
+msgstr "خوراک مطالب شما:"
+
+#: template/logged-in/info.php:33
+msgid "Author Feed"
+msgstr "خوراک نویسنده"
+
+#: template/logged-in/info.php:35
+msgid "All comments feed:"
+msgstr "خوراک دیدگاه ها:"
+
+#: template/logged-in/info.php:36
+msgid "Comments Feed"
+msgstr "خوراک دیدگاه ها"
+
+#: template/logged-in/order-tracking.php:13
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+"برای پیگیری سفارش‌تان، کد سفارش خود را در زیر وارد کرده و پیگیری را فشار "
+"دهید. این کد از طریق رسید و ایمیلی که به شما فرستاده شده، در اختیارتان قرار "
+"گرفته است."
+
+#: template/logged-in/order-tracking.php:15
+msgid "Order ID"
+msgstr "شناسه سفارش:"
+
+#: template/logged-in/order-tracking.php:15
+msgid "Found in your order confirmation email."
+msgstr "موجود در ایمیل تایید سفارشتان"
+
+#: template/logged-in/order-tracking.php:16
+msgid "Billing Email"
+msgstr "ایمیل صورت حساب"
+
+#: template/logged-in/order-tracking.php:16
+msgid "Email you used during checkout."
+msgstr "ایمیلی  که شما به هنگام پرداخت استفاده می کنید."
+
+#: template/logged-in/order-tracking.php:19
+msgid "Track"
+msgstr "پیگیری"
+
+#: template/logged-in/orders.php:12
+msgid "Recent Orders"
+msgstr "سفارشات اخیر"
+
+#: template/logged-in/orders.php:18
+msgid "Order"
+msgstr "سفارش"
+
+#: template/logged-in/orders.php:19 template/logged-in/orders.php:38
+msgid "Date"
+msgstr "تاریخ"
+
+#: template/logged-in/orders.php:20 template/logged-in/orders.php:41
+msgid "Status"
+msgstr "وضعیت"
+
+#: template/logged-in/orders.php:21 template/logged-in/orders.php:44
+msgid "Total"
+msgstr "جمع"
+
+#: template/logged-in/orders.php:33
+msgid "Order Number"
+msgstr "شماره سفارش"
+
+#: template/logged-in/orders.php:35
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: template/logged-in/orders.php:45
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+
+#: template/logged-in/orders.php:54
+msgid "Pay"
+msgstr "پرداخت"
+
+#: template/logged-in/orders.php:61
+msgid "Cancel"
+msgstr "لغو"
+
+#: template/logged-in/orders.php:67
+msgid "View"
+msgstr "مشاهده"
+
+#: template/logged-in/settings.php:8
+msgid "Your Profile Image:"
+msgstr "عکس پروفایل"
+
+#: template/logged-in/settings.php:13
+msgid "Name"
+msgstr "نام"
+
+#: template/logged-in/settings.php:20
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#: template/logged-in/settings.php:27 template/register-form.php:17
+msgid "Email"
+msgstr "ایمیل"
+
+#: template/logged-in/settings.php:33
+msgid "Tel Number"
+msgstr "شماره تماس"
+
+#: template/logged-in/settings.php:90
+msgid "city"
+msgstr "شهر"
+
+#: template/logged-in/settings.php:96
+msgid "address"
+msgstr "آدرس"
+
+#: template/logged-in/settings.php:101
+msgid "Postal Code"
+msgstr "کد پستی"
+
+#: template/logged-in/settings.php:109
+msgid "submit"
+msgstr "ثبت"
+
+#: template/logged-in/user.php:7
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: template/logged-in/user.php:19
+msgid "You logged in on "
+msgstr "شما وارد شدید در تاریخ "
+
+#: template/logged-in/user.php:43
+msgid "Log out"
+msgstr "خروج"
+
+#: template/login-form.php:19 template/register-form.php:16
+msgid "Username"
+msgstr "نام کاربری"
+
+#: template/login-form.php:21 template/register-form.php:18
+msgid "Password"
+msgstr "کلمه عبور"
+
+#: template/login-form.php:32
+msgid "Lost Password?"
+msgstr "کلمه عبور را فراموش کرده‌اید؟"
+
+#: template/login-form.php:36 template/tabs.php:32
+msgid "Login"
+msgstr "ورود"
+
+#: template/lost-password-form.php:15
+msgid ""
+"Please enter your username or e-mail address. You will receive a new "
+"password via e-mail."
+msgstr ""
+"لطفا نام کاربری یا آدرس ایمیل خود را وارد نمایید. شما یک رمز عبور جدید از "
+"طریق ایمیل دریافت خواهید کرد."
+
+#: template/lost-password-form.php:17
+msgid "Username/Email"
+msgstr "نام کاربری / ایمیل"
+
+#: template/lost-password-form.php:17 template/register-form.php:17
+msgid "you@yourdomain.com"
+msgstr "you@yourdomain.com"
+
+#: template/lost-password-form.php:19
+msgid "Reset Password"
+msgstr "نوسازی رمز عبور"
+
+#: template/register-form.php:19
+msgid "Re-enter"
+msgstr "دوباره وارد کنید"
+
+#: template/register-form.php:19
+msgid "Re-enter Password"
+msgstr "پسورد را دوباره وارد کنید"
+
+#: template/register-form.php:21 template/tabs.php:33
+msgid "Register"
+msgstr "ثبت نام"
+
+#: template/tabs.php:11 template/tabs.php:28
+msgid "My Account"
+msgstr "حساب من"
+
+#: template/tabs.php:16
+msgid "Orders"
+msgstr "سفارشات"
+
+#: template/tabs.php:17
+msgid "Order Tracking"
+msgstr "پیگیری سفارش"
+
+#: template/tabs.php:18
+msgid "Info"
+msgstr "اطلاعات"
+
+#: template/tabs.php:19
+msgid "Settings"
+msgstr "تنظیمات"
+
+#. Plugin Name of the plugin/theme
+msgid "iw Profile"
+msgstr "پروفایل iw"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://IDEHWEB.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"iw profile widget that allows a user to login, register, reset their "
+"password, see recent activity,time , post , Woocommerce order and track "
+"theme, information for users and comment count ALL without leaving their "
+"current location! It also allow to change wordpress email form name and "
+"address."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Hamid Reza Alinia"
+msgstr ""
